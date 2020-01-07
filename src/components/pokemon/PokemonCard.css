@@ -1,0 +1,17 @@
+.card {
+    width: 100%;
+    color: #7a7a7a;
+}
+.iconPokemon {
+    width: 100px;
+}
+.backIcon {
+    background-color: #7a7a7a;
+}
+.Link:hover {
+    text-decoration: none;
+}
+.card:hover {
+    box-shadow: 0 0 5px 1px;
+    color: #7a7a7a;
+}
